@@ -2,7 +2,7 @@
 name: Bug report
 about: Post about bugs and other issues with the mod.
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
