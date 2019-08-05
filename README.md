@@ -17,7 +17,7 @@ Only report one issue per ticket as multiple issues within one ticket is harder 
 
 * Supply as much evidence as possible.
 
-This depends upon the type of bug but generally make it clear enough for the team to reporduce the bug or know what you are talking about. Better too much info than too little.
+This depends upon the type of bug but generally make it clear enough for the team to reporduce the bug or know what you are talking about. Better too much info than too little. Screenshots encouraged.
 
 * Do not bump issues.
 
